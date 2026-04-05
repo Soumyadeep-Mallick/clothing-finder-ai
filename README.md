@@ -5,7 +5,6 @@ An AI-powered clothing recommendation web app that aggregates products from Flip
 ---
 
 🚀 Features
-
 - 🔍 Multi-platform product search (Flipkart + Amazon)
 - 🎯 Smart filtering (gender, style, color, budget)
 - 🧍 Gender-specific UI (including innerwear & cup size)
@@ -23,6 +22,5 @@ An AI-powered clothing recommendation web app that aggregates products from Flip
 ---
 
 ▶️ Run Locally
-```bash
 pip install -r requirements.txt
 streamlit run app.py
